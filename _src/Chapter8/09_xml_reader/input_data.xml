@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <person>
+        <firstName>Shania</firstName>
+		<age>49</age>
+    </person>
+    <person>
+        <firstName>Nelly</firstName>
+		<age>36</age>
+    </person>
+</records>
